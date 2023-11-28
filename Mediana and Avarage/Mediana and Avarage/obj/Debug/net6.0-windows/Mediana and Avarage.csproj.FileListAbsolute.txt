@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\bin\Debug\net6.0-windows\Mediana and Avarage.exe
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\bin\Debug\net6.0-windows\Mediana and Avarage.deps.json
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\bin\Debug\net6.0-windows\Mediana and Avarage.runtimeconfig.json
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\bin\Debug\net6.0-windows\Mediana and Avarage.dll
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\bin\Debug\net6.0-windows\Mediana and Avarage.pdb
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana_and_Avarage.Form1.resources
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.AssemblyInfo.cs
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.dll
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\refint\Mediana and Avarage.dll
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.pdb
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\Mediana and Avarage.genruntimeconfig.cache
+C:\Users\pc\source\repos\Mediana and Avarage\Mediana and Avarage\obj\Debug\net6.0-windows\ref\Mediana and Avarage.dll
